@@ -11,7 +11,7 @@ This is a Product Store application built using the **MERN Stack** (MongoDB, Exp
 
 
 ## 🔗 Deployed Website Link
-- [Food Delivery Website](https://afia45.github.io/Food-and-Delivery-Website/)
+- [Product Store](https://mern-product-store-av5i.onrender.com/)
 
 
 
@@ -27,8 +27,10 @@ This is a Product Store application built using the **MERN Stack** (MongoDB, Exp
 ## IDE
 - VS Code
 
-## Screenshots
+## Images imported from
+- [Unsplash](https://unsplash.com/)
 
+## Screenshots
 ![Screenshot](/assets/1.png)
 ![Screenshot](/assets/2.png)
 ![Screenshot](/assets/3.png)
