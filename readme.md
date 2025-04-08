@@ -8,6 +8,8 @@ This is a Product Store application built using the **MERN Stack** (MongoDB, Exp
 - Create, update, delete products
 - Handle user and admin requests seamlessly
 - Error handling with try and catch blocks
+- Built an API
+- Deployment on Onrender.com
 
 
 ## 🔗 Deployed Website Link
@@ -26,6 +28,26 @@ This is a Product Store application built using the **MERN Stack** (MongoDB, Exp
 
 ## IDE
 - VS Code
+
+## Project Setup
+### Setup .env file
+
+```shell
+MONGO_URI=your_mongo_uri
+PORT=5000
+```
+
+### Run this app locally
+
+```shell
+npm run build
+```
+
+### Start the app
+
+```shell
+npm run start
+```
 
 ## Images imported from
 - [Unsplash](https://unsplash.com/)
