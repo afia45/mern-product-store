@@ -41,7 +41,7 @@ const CreatePage = () => {
 					Create New Product
 				</Heading>
 
-				<Box w={"full"} bg={useColorModeValue("white", "gray.800")} p={6} rounded={"lg"} shadow={"md"}>
+				<Box w={"80%"} bg={useColorModeValue("white", "gray.800")} p={6} rounded={"lg"} shadow={"md"}>
 					<VStack spacing={4}>
 						<Input
 							placeholder='Product Name'
